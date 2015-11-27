@@ -1,0 +1,19 @@
+{
+  "name": "victory-legend",
+  "version": "0.0.1",
+  "description": "legend component for victory",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boygirl/victory-legend.git"
+  },
+  "author": "Lauren Eastridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/boygirl/victory-legend/issues"
+  },
+  "homepage": "https://github.com/boygirl/victory-legend",
+  "scripts": {
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
